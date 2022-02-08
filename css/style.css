@@ -1,0 +1,36 @@
+.login{
+    width: 100vw;
+    height: 100vh;
+    background-color: #07C1DD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login section{
+    background-color: #FFF;
+    border-radius: 39px;
+    width: 465px;
+    height: 465px;
+    display: flex;
+    flex-direction: column;
+}
+
+.login section figure {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login form >  div{
+    margin-bottom: 25px;
+}
+
+.btn-primary-feegow{
+    background-color: #07C1DD;
+    color:#FFF;
+}
+
+.btn-primary-feegow:hover{
+    background-color: #07C1DD;
+    color:#FFF;
+}
